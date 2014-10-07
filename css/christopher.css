@@ -1,4 +1,5 @@
-ckground-image: url(neige.jpeg);
+html {
+	background-image: url(neige.jpeg);
 }
 
 .christopher {
