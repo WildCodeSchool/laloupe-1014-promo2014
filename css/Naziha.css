@@ -1,0 +1,101 @@
+h1
+{
+	display:inline;
+	position:absolute;
+	margin:-10px 0px 0px 110px;
+}
+
+#firstul 
+{       
+        display:inline;
+        position:absolute;
+        margin:50px 0px 0px 100px;
+	background-color:white;
+	padding:15px 25px 25px 25px;
+}
+
+li
+{
+	margin:10px 0px 0px 0px;
+}
+
+#libis
+{
+	text-align:center;
+}
+
+h3
+{
+	text-align:center;
+}
+
+#profilpic
+{
+	height:250px;
+	width:250px;
+}
+
+#header
+{
+	width:700px;
+	height:250px;
+	background-color:grey;
+	padding:10px;
+	margin:auto;
+}
+
+#profil
+{
+	display:inline-block;
+	background-color:red;
+	border-radius:25px;
+	height:50px;
+	width:100px;
+	margin:200px 0px 0px 100px;
+	position:absolute;
+}
+
+#profilpar
+{
+	margin:15px 0px 0px 25px;
+	color:white;
+	position:absolute;
+}
+
+#more
+{
+        display:inline-block;
+        background-color:blue;
+        border-radius:25px;
+        height:50px;
+        width:100px;
+	margin: 200px 0px 0px 303px;
+	position:absolute;
+}
+ 
+#morepar
+{
+        margin:15px 0px 0px 15px;
+        color:white;
+	position:absolute;
+}
+
+#Area
+{
+	position:both;
+	margin:auto;
+	height:250px;
+	width:700px;
+	background-color:#FE2E2E;
+	border:solid grey 10px;
+}
+
+#Areabis
+{
+	position:both;
+	margin:auto;
+	height:250px;
+	width:700px;
+	background-color:#00FFFF;
+	border:solid grey 10px;
+}
