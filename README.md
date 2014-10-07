@@ -13,6 +13,7 @@ Utilisez des noms de fichiers en minuscules sans espaces ;)
     - romain-be.html
     - Emmanuelle-S.html
     - Mounir.html
+    - david.html
     |
     ...
     |
@@ -23,5 +24,6 @@ Utilisez des noms de fichiers en minuscules sans espaces ;)
         - naziah.css
         - romain-bo.css
         - romain-be.css
+        - david.css
         |
         ...
