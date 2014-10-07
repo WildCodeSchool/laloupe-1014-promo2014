@@ -1,0 +1,60 @@
+header
+{
+	height: 40px;
+}
+h1
+{
+	color: red;
+}
+h2
+{
+	color: red;
+}
+p 
+{
+	font-family: Arial;
+	font-size: 15px;
+	background-color:grey;
+}
+body 
+{ 
+	background-color:#555555; 
+} 
+a.button{
+		background:url(img/button.gif);
+		display:block;
+		color:#555555;
+		font-weight:bold;
+		height:30px;
+		line-height:29px;
+		margin-bottom:14px;
+		text-decoration:none;
+		width:191px;
+	}
+	a:link {color: #009900;}
+a:visited {color: #999999;}
+a:hover {color: #333333;}
+a:focus {color: #000000;}
+a:active {color: #009900;} 
+
+	a:hover.button{
+		color:#0066CC;
+								}
+/* -------------------- */
+	/* CLASSES */
+	/* -------------------- */
+	.add{
+		background:url(img/add.gif) no-repeat 10px 8px;
+		text-indent:30px;
+		display:block;
+	}
+	.delete{
+		background:url(img/delete.gif) no-repeat 10px 8px;
+		text-indent:30px;
+		display:block;
+	}
+	.user{
+		background:url(img/user.gif) no-repeat 10px 8px;
+		text-indent:30px;
+		display:block;
+	}
