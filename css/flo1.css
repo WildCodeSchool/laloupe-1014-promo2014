@@ -1,0 +1,72 @@
+#picture 
+{   text-align: center;
+	margin: auto;
+	height:200px;
+	width:200px;
+}
+
+#pic
+{   margin: auto;
+	height:200px;
+	width:200px;
+}
+
+#Galerie
+{
+	margin:auto;
+	height:200px;
+	width:650px;
+}
+
+#imgbis
+{
+	margin:0px 0px 0px 75px;
+}
+
+h1 
+{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color:red;
+}
+	
+h3
+{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 32px;
+	padding-bottom: 32px;
+	color:black;
+
+}
+
+#header
+{
+	height:950px;
+	width:650px;
+	background-color:#6699FF;
+	margin:auto;
+}
+p
+{
+	font-size: 16px;
+	font-family:italique;
+	color:#993300 ;
+}
+img
+{
+	height:100px;
+	width:100px;
+	margin:auto;
+}
+img src 
+{
+	height:100px;
+	width:100px;
+	margin:auto;
+}
+
