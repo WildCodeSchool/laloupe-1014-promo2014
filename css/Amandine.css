@@ -1,0 +1,98 @@
+.profil {
+	width: 120px;
+	height: 100px;
+	display: block;
+	margin: auto; 
+}
+a {
+	text-decoration: none;
+}
+
+.amandine { 
+	width: 120px;
+	height: 160px;
+	border-radius: 100%;
+	display: block;
+	margin: auto;
+}
+
+.simplon {
+	width: 125px;
+	height: 100px;
+	display: block;
+	margin: auto;
+}
+
+.profil , .photo, .logo {
+	display: inline-block;
+	width: 32% ;
+}
+
+.represente, .parcour {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.objectif{
+		text-align: center; 
+}
+
+h1 { 
+	display: inline-block;
+	font-size: 20px ;
+	margin-left: 3% ;
+}
+
+.nego {
+	width: 135px;
+	height: 80px;
+	border-radius: 150% ;
+	margin-top: 20% ;
+}
+
+.parcour {
+	width: 75%;
+	margin-top: 10px;
+	text-align: justify;
+	margin-left: 30px;
+} 
+
+
+.medit {
+	height: 145px;
+	width: 130px;
+}
+
+h2 {
+	margin-top: -10% ;
+}
+
+.informatique, .chien, .ptforts {
+	display: inline-block;
+	width: 29%;
+	margin: 8px;
+	padding: 10px;
+	vertical-align: middle;
+}
+
+article {
+	border: 1px solid black;
+	box-shadow: 10px 10px 5px #888888;
+	margin: 5px;
+}
+
+h3 {
+	font-size: 23px;
+	margin-left: 10%;
+}
+
+footer{
+	text-align: center;
+}
+
+aside{
+	width: 70%;
+	margin: auto;
+	margin-top: 40px;
+}
+
