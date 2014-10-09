@@ -1,0 +1,49 @@
+h3{
+	
+	color: lightslategray;
+}
+
+h1{
+
+	color: mediumpurple;
+}
+h3{
+
+	font-style: italic;
+}
+
+body{
+
+	background-image: url("/home/apprenti/Bureau/maman/arches.png");
+
+}
+
+header{
+
+	display: inline-block;
+	width: 350px;
+	border: 3px teal ridge;
+	vertical-align: top;
+	float: left;
+	text-align: center;
+	font-family: Norasi;
+
+}
+
+#photodepresentation{
+
+	display: inline-block;
+	border: 3px teal ridge;
+	vertical-align: top;
+	float: right;
+}
+
+
+h3{
+
+	text-align: center;
+	text-shadow: 2px 2px 4px darkslategrey;
+	font-family: Norasi;
+	font-size: 35px;
+}
+
