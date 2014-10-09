@@ -1,11 +1,20 @@
-
 body{
-	background:url(Gw2.jpg) center;
+	background:url(images-g-r/Cubes.jpg) center;
+}
+
+body:hover
+{
+	background: url(images-g-r/Cubes.jpg) bottom right ;
+	-webkit-transition: all 4.0s ease;
+-moz-transition: all 4.0s ease;
+-ms-transition: all 4.0s ease;
+-o-transition: all 4.0s ease;
+transition: all 60.0s ease;
 }
 
 div:hover
 {
-	background: url(Cubes.jpg) bottom right ;
+	background: url(images-g-r/Cubes.jpg) bottom left ;
 	-webkit-transition: all 4.0s ease;
 -moz-transition: all 4.0s ease;
 -ms-transition: all 4.0s ease;
@@ -21,19 +30,19 @@ div
 
 #test
 {
-	border: 3px black solid; margin-bottom: 30px;
+	border: 3px black solid; margin-bottom: 60px;
 }
 
 #test1
 {
-	border: 3px black solid; font-size: 30px; margin-bottom: 100px;
+	border: 3px black solid; font-size: 30px;
 	width: 40%; text-align: center; margin: auto
 }
 
 #test2 
 {
 	border: 3px black solid; float: left; margin-top: 20px;	
-	width: 45%; text-align: left; 
+	width: 45%; text-align: left; margin-top: 50px;
 }
 
  img
@@ -126,6 +135,5 @@ h1
 	text-align: right; margin-right: 20px;
 
 } 
-
 
 
