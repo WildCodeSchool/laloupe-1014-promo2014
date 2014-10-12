@@ -1,66 +1,124 @@
+html 
+{
+  font-family: none;
+}
+
+body 
+{ 
+	margin: 10px;
+}
+
 header
 {
 	height: 40px;
 	font-size: 20px;
+	color: #06E5C7;
+	display: block;
 }
+
 h1
 {
-	color: red;
-	font-family: Arial;
-
-	
+color: red;	
+  font-family: inherit;
+  font-weight: 15;
+  line-height: 1.1;
+	margin: .67em 0;
+  font-size: 2em;
+  margin: 0,9em 0px 0.67em 1px;
 }
+
 h2
 {
-	color: red;
-	
-	
+	font-family: inherit;
+	color: #f20008;
+	font-weight: 15;
+    line-height: 1.1;
 }
+
 p 
 {
 	font-family: Arial;
 	font-size: 15px;
-	background-color:grey;
+	background-color: transparent;
+	font-family: Arial;
+	color:#1FDEDE;
+	
 }
-body 
-{ 
-	background-color:#555555; 
-} 
-a.button{
-		background:url(img/button.gif);
-		display:block;
-		color:#555555;
-		font-weight:bold;
-		height:30px;
-		line-height:29px;
-		margin-bottom:14px;
-		text-decoration:none;
-		width:191px;
-	}
-	a:link {color: #009900;}
-a:visited {color: #999999;}
-a:hover {color: #333333;}
-a:focus {color: #000000;}
-a:active {color: #009900;} 
 
-	a:hover.button{
-		color:#0066CC;
+ul
+{
+	font-family: Arial;
+	font-size: 15px;
+	background-color: transparent;
+	color:#1FDEDE;
+}
+
+
+img  
+{
+border-width: all                        /* auto */       E.g. border-image-width: 3;
+border-width: vertical horizontal        /* auto */       E.g. border-image-width: 2em 3em;
+border-width: top horizontal bottom      /* auto */     E.g. border-image-width: 15% 25% 20%;
+border-width: top right bottom left      /* auto */      E.g. border-image-width: 15% 2em 20% auto;
+
+border-width: inherit
+	 
+}
+
+
+
+
+
+
+div
+{
+	
+     display: block;
+}
+
+
+
+a.btn
+{
+		margin: 0;
+  font: inherit;
+  color: inherit;
+		  overflow: visible;
+		  text-transform: none;
+  cursor: pointer;
+  margin: 15;
+  font: inherit;
+  		  overflow: visible;
+		  text-transform: Arial;
+		  padding: 10;
+  border: 10;
+  color: #1A4EFF;
+  background-color: #1FDEDE;
+}
+
+.logo
+{
+	height :150px ; 
+}
+
+article
+{
+	width: 900px;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
 								}
 /* -------------------- */
 	/* CLASSES */
 	/* -------------------- */
-	.add{
-		background:url(img/add.gif) no-repeat 10px 8px;
-		text-indent:30px;
-		display:block;
-	}
-	.delete{
-		background:url(img/delete.gif) no-repeat 10px 8px;
-		text-indent:30px;
-		display:block;
-	}
-	.user{
-		background:url(img/user.gif) no-repeat 10px 8px;
-		text-indent:30px;
-		display:block;
-	}
+
+
+

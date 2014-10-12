@@ -1,0 +1,112 @@
+#logo
+{
+  left: 0%;
+  margin-left: 920px;
+  margin-top: -285px;
+  position: absolute;
+  top: 45%;
+}
+
+#nom a 
+{
+  color: #EE9A00;
+  font-style: italic;
+  text-decoration: none;
+}
+
+#nom h4 
+{
+  font-family: times;
+  color: #EE9A00;
+}
+
+#nom
+{
+	color: #FFEECA;
+  font-style: italic;
+  height: 150px;
+  margin-left: 230px;
+  margin-top: -280px;
+  position: absolute;
+  top: 45%;
+  width: 400px;
+}
+#titre 
+{
+  font-family: impact;
+  color:#FFEECA;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#cv 
+{
+  font-family: times;
+  font-style: italic;
+  font-size:17px;
+  color: #EE9A00;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  margin-left: 70px;
+  bottom: 8%;
+
+
+}
+#intro h3 
+{
+  font-family: impact;
+  font-weight: bold;
+  color:#FFEECA;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#intro p {
+  text-align: center;
+}
+
+#intro 
+{
+  font-family: times;
+  font-style: italic;
+  font-size: 17px;
+	color: #EE9A00;
+	height: 400px;
+  width: 360px;
+  position:absolute;
+  display:inline;
+  margin: -439px 0px 0px 565px;
+
+}
+
+body 
+{
+  background-image: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.psdgraphics.com%2Ffile%2Fdark-metal-texture.jpg&f=1');
+  background-size: 1100px 900px;
+
+}
+
+#bloc 
+{
+background-color: #BDB76B;
+height: 5px;
+width: 1004px;
+
+}
+
+ #bar 
+ {
+  background-color:#BDB76B;
+  height: 440px;
+  width: 5px;
+  margin-left: 480px;
+}
+
+.pho
+{
+border:1px solid #EE9A00;
+
+}

@@ -1,0 +1,81 @@
+h3{
+	
+	color: lightslategray;
+}
+
+h1{
+
+	color: mediumpurple;
+}
+h3{
+
+	font-style: italic;
+}
+
+body{
+
+	padding-top: 10px;
+	background-color: #5E86C6;
+	font-size: 20px;
+	font-style: italic;
+}
+
+[class="col-"]{
+	border: 2px solid;
+	border-radius: 6px;
+	line-height: 35px;
+	text-align: center;
+}
+
+header{
+	font-size: 80px;
+	font-family: Times;
+	text-align: center;
+	font-weight: bold;
+	background-color: #8DC5F9;
+	color: #172756;
+	
+}
+
+
+h3{
+
+	text-align: center;
+	text-shadow: 4px 4px 2px #202624;
+	font-family: Norasi;
+	font-size: 40px;
+
+}
+
+p{
+	text-align: center;
+}
+nav{
+
+	text-align: center;
+}
+
+
+#projet {
+	margin-left: 30px;
+	
+}
+
+#parcours {
+	margin-left: 30px;
+}
+
+#simplon {
+	margin-left: 30px;
+}
+
+#loisirs {
+	margin-left: 30px;
+}
+
+#lui {
+	margin-left: 30px;
+}
+
+
+
