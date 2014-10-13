@@ -1,0 +1,40 @@
+body  {
+background-image: url(/home/apprenti/code/promo2014/img/Nature-Wallpapers-7.jpg);
+}
+h1 {
+  font-size: 22px;
+  color: blue;
+
+}
+h2 {
+  font-size: 20px;
+  color: blue; 
+}
+
+.cadre {
+  border: 1px solid black;
+  box-shadow: 6px 6px 0px grey;
+  margin-top: 15px;
+}
+
+.avatar {
+  height: 240px;
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 5%;
+  margin-top: 15px;
+  margin-left: -15px;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 20px;
+}
+.simplon {height:100px;
+width:100px;
+float: right;
+}
+
+.cadre {
+  background-color: white;
+}
