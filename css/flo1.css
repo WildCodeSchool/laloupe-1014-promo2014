@@ -1,0 +1,70 @@
+
+#div
+{
+	     height:90px;
+	     width:150px;
+	     border-top:2px;
+	     background-color:green;
+	     text-align:center;
+
+}
+html{
+  background-image:url(http://wallpoper.com/images/00/45/05/47/green-background-2_00450547.jpg);}
+.un
+{
+	font-size:28px;
+  color:yellow;
+  font-family:arial;
+}
+.deux{
+	font-family: italic;
+	font-size: 32px;
+	color:#996600;
+	text-align: left;
+}
+
+.fb{
+	text-align:right;
+}
+li{
+	font-size: 20px;
+	font-family: arial;
+}
+#trois{
+	   width:900px;
+	   height:auto;
+	   font-size:60px;
+	   text-align:center;
+     border-radius:100%;
+}
+#im{
+	text-align:left;
+	 width: 1000px;
+	 height:150px;
+}
+
+#div h1 
+{
+	font-family:Verdana;
+	font-weight:bold;
+	text-align:center;
+	padding-top:25px;
+	padding-bottom:25px;
+	color:green;
+}
+	
+
+#site
+{    text-align: right;
+	    height: 50px;
+	    width: 50px;
+
+}
+#p
+{
+	font-size:32px;
+	font-family:italique;
+	color:#996600;
+  font-weight:bold;
+}
+

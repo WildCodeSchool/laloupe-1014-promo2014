@@ -1,0 +1,114 @@
+#logo
+{
+left: 0%;
+margin-left: 910px;
+margin-top: -285px;
+position: absolute;
+top: 45%;
+}
+
+#nom a {
+  color: #00BFFF;
+  font-style: italic;
+  text-decoration: none;
+}
+
+#nom h4 {
+  font-family: times;
+  color: #00BFFF;
+}
+
+#nom
+{
+	color: #AFEEEE;
+  font-style: italic;
+  height: 150px;
+  margin-left: 170px;
+  margin-top: -280px;
+  position: absolute;
+  top: 45%;
+  width: 400px;
+}
+#titre 
+{
+  font-family: impact;
+  color:#AFEEEE;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#cv 
+{
+  font-size:16px;
+  font-family: times;
+  font-style: italic;
+  color: #00BFFF;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  margin-left: 70px;
+  bottom: 4%;
+
+
+}
+#intro h3 
+{
+  font-family: impact;
+  font-weight: bold;
+  color:#AFEEEE;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#intro p {
+  text-align: center;
+}
+
+#intro 
+{
+  font-family: times;
+  font-style: italic;
+  font-size: 17px;
+	color: #00BFFF;
+	height: 400px;
+  width: 320px;
+  margin-left: 510px;
+  margin-top: -230px;
+  top : 70%;
+  position: absolute;
+}
+
+body {
+  background-image: url('http://lacuriosphere.fr/wp-content/gallery/technologie/fond-ecran-technologie-22.jpg');
+  background-size: 1100px 900px;
+
+}
+
+#bloc 
+{
+background-color: #2F4F4F;
+height: 10px;
+width: 1010px;
+
+}
+
+#bar 
+ {
+  background-color: #2F4F4F;
+  height: 420px;
+  width: 10px;
+  margin-left: 480px;
+}
+
+#mail {
+  border-radius: 100%;
+}
+
+#pics
+{
+  border-radius: 5px;
+  border:2px solid #00BFFF;
+}
+
