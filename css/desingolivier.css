@@ -47,7 +47,35 @@ h3{
 
 }
 
+p{
+	text-align: center;
+}
+nav{
 
+	text-align: center;
+}
+
+
+#projet {
+	margin-left: 30px;
+	
+}
+
+#parcours {
+	margin-left: 30px;
+}
+
+#simplon {
+	margin-left: 30px;
+}
+
+#loisirs {
+	margin-left: 30px;
+}
+
+#lui {
+	margin-left: 30px;
+}
 
 
 
