@@ -1,0 +1,72 @@
+#bloc_page
+{
+    font-family: Times;
+    color: #C80BAF;
+	background-color: #E6E2E2;
+	margin: auto;
+    
+}
+#button-default
+{
+	color: #C80BAF;
+}
+
+.identification
+{
+	text-align: center;
+	border: solid, white 10px;
+}
+
+
+
+#photo
+{
+	border-radius: 100%;
+	display: inline-block;
+	margin-top: 0;
+	width: 150px;
+	height: 125px;
+}
+
+#formation
+{
+	text-align: right;
+	background-color: #A9CDE3;
+	color: white;
+	text-decoration: none;
+}
+
+
+#interet
+{
+	text-align: right;
+	background-color: #A9CDE3;
+	color: white;
+	text-decoration: none;
+}
+
+#Experiences
+{
+	border: 0px;
+	width: 10px;
+	height: 10px;
+	text-decoration: none;
+
+}
+
+#Aspirations
+{
+	text-align: right;
+	background-color: #A9CDE3;
+	color: white;
+	text-decoration: none;
+}
+#formulaire
+{
+	background-image:linear-gradient(#E6E2E2, black);
+	font-size: 14px, bold;
+	font-family: impact;
+	color: white;
+	text-decoration: none;
+
+}
