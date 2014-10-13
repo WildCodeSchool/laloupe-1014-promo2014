@@ -1,0 +1,258 @@
+body
+{
+	background : url('Images/Grey-lines-background.jpg');
+	font-family : Georgia, Serif, sans-serif;
+	color : black;
+}
+
+#bloc_page
+{
+	width : 900px;
+	margin : auto;
+}
+
+section h1, nav a, footer h1
+{
+	font-family :  Arial, Serif, sans-serif;
+	font-weight : normal;
+}
+
+/*section
+{
+	display: inline-block;
+}
+*/
+/*#nom
+{
+	display :inline-block;
+}*/
+
+#photo
+{
+	display : inline-block;
+	border-radius: 100%;
+	box-shadow : 0px 5px 10px black;
+}
+
+#foot
+{
+	/*display: inline-block;*/
+	border-radius: 5px;
+	box-shadow : 0px 5px 10px black;
+	width : 100px;
+	height : 100px;
+}
+
+#pc
+{
+	/*display: inline-block;*/
+	border-radius: 5px;
+	box-shadow : 0px 5px 10px black;
+	width : 100px;
+	height : 100px;
+}
+
+#musique
+{
+	/*display: inline-block;*/
+	border-radius: 5px;
+	box-shadow : 0px 5px 10px black;
+	width : 100px;
+	height : 100px;
+}
+
+header h1
+{
+	color : white;
+	font-family: Arial, Serif, sans-serif; 
+	font-size : 3em;
+	font-weight : normal;
+	text-align : center;
+}
+
+header h2
+{
+	font-family : Arial, Serif, sans-serif;
+	font-size : 0.5em;
+	margin-top : 0px;
+	font-weight : normal;
+}
+
+nav
+{
+	display : inline-block;
+	margin-top: 120px;
+	width : 750px;
+	text-align : right;
+}
+
+nav ul
+{
+	list-style-type : none;
+}
+
+nav li
+{
+	display : inline-block;
+	margin-right : 15px;
+}
+
+nav a
+{
+	font-size : 1.3em;
+	color : white;
+	padding-bottom : 3px;
+	text-decoration : none;
+}
+
+nav a:hover
+{
+	color : purple;
+	border-bottom : 3px solid purple;
+}
+
+article, aside
+{
+	display : inline-block;
+	vertical-align : top;
+	text-align : center;
+}
+
+article
+{
+/*	display: inline-block;
+	width : 150px;
+	margin : auto;*/
+}
+
+article p
+{
+	font-size : 0.8px;
+	display : inline-block;
+}
+
+aside
+{
+	/*width : 225px;
+	height : 500px;*/
+	background-color : grey;
+	box-shadow : 0px 5px 10px black;
+	border-radius : 5px;
+	padding : 10px;
+	color : white;
+	font-size : 1em;
+	text-align: center;
+	/*margin-left: 0px;*/
+}
+
+aside p
+{
+	display: inline-block;
+}
+
+#gauche
+{
+	padding: auto;
+}
+
+#droite
+{
+	
+	float: right;
+	margin-right: 25px;
+	padding-right: 10px;
+}
+
+#mail
+{
+	height : 43px;
+	width : 43px;
+}
+
+#formations
+{
+/*	display : inline-block;
+	margin : auto;*/
+	text-align: justify;
+/*	width : 600px;
+	height : 200px;*/
+	background-color : #FFFFFA;
+	box-shadow : 0px 5px 10px black;
+	border-radius : 5px;
+}
+
+#voyages
+{
+/*	display: inline-block;
+	margin : auto;*/
+	text-align: justify;
+	margin-top: 10px;
+/*	width: 600px;
+	height: 200px;*/
+	background-color : #FFFFFA;
+	box-shadow: 0px 5px 10px black;
+	border-radius: 5px;
+}
+
+#aspiration1
+{
+	text-align: justify;
+	/*margin-top: 25px;
+	width: 450px;
+	height: 200px;*/
+	background-color : #FFFFFA;
+	box-shadow: 0px 5px 10px black;
+	border-radius: 5px;
+}
+
+#aspiration2
+{
+	text-align: justify;
+	/*width: 450px;
+	height: 200px;*/
+	background-color : #FFFFFA;
+	box-shadow: 0px 5px 10px black;
+	border-radius: 5px;
+}
+
+#formulaire
+{
+	text-align: center;
+}
+
+/*footer
+{
+	background-color: black;
+	padding-bottom : 0px;
+}*/
+
+footer p
+{
+	font-size : 0.8em;
+	color: black;
+}
+
+footer h1
+{
+	font-size : 1.1em;
+}
+
+footer
+{
+	color: white;
+}
+
+#Copyright
+{
+	/*display : inline-block;*/
+	height : 17px;
+	width : 20px;
+	color: white;
+	margin : bottom;
+}
+
+foot
+{
+	text-align : center;
+}
+
