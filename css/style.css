@@ -1,0 +1,202 @@
+body
+{
+	margin-top:75px;
+}
+
+#hello
+{
+	display:inline;
+	position:absolute;
+	margin:-57px 0px 0px 200px;
+	color:white;
+}
+
+#yout
+{
+	margin:10px 0px 0px -3px;
+}
+
+#rss
+{
+	position:absolute;
+	width:500px;
+	margin-top:5px;
+}
+
+#firstimg
+{
+	height:200%;
+	width:100%;
+	display:inline;
+	position:absolute;
+	margin:-75px 0px 0px 0px;
+}
+
+#back1, #back2, #back3, #back4
+{
+	height:30px;
+	width:30px;
+	margin:0px 0px 0px 10px;
+}
+#params
+{
+	height:150px;
+	width:150px;
+	margin:30px 0px 0px 20px;
+}
+
+#settings
+{
+	height:200px;
+	width:200px;
+	background-color:white;
+	margin:265px 0px 0px 210px;;
+	display:none;
+	position:absolute;
+	z-index:1;
+	border-radius:25px;
+	border:solid #04B404 5px;
+}
+
+#close
+{
+	margin:0px 0px 0px 170px;
+	height:15px;
+	width:15px;
+}
+
+#Facebook
+{
+	height:65px;
+	width:65px;
+	margin:125px 0px 0px -1255px;
+	position:absolute;
+	display:inline;
+}
+
+#Twitter
+{
+	height:50px;
+	width:50px;
+	margin:200px 0px 0px -1250px;
+	position:absolute;
+	display:inline; 
+}
+
+#contact
+{
+	position:absolute;
+	margin:-40px 0px 0px 950px;
+}
+
+#acceuil
+{
+	position:absolute;
+	margin:-40px 0px 0px 850px;
+}
+
+#first
+{
+	background-color:#04B4AE;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+	text-align:center;
+	padding-top:45px;
+	color:white;
+	font-family:Arial;
+}
+
+#google
+{
+	height:200px;
+	width:800px;
+	margin: 0px 0px 0px 25px;
+}
+
+#second
+{
+	background-color:#04B404;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+}
+
+#third
+{
+	background-color:#8A0808;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+}
+
+#four
+{
+	background-color:#0A0A2A;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+}
+
+#five
+{
+	background-color:#DF7401;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+	text-align:center;
+	color:black;
+}
+
+#fourbis
+{
+	background-color:#04B4AE;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+	text-align:center;
+	color:black;
+}
+
+.meteo
+{
+	margin:5px 0px 0px -7px;
+}
+
+#six
+{
+	background-color:#4B088A;
+	margin-top:25px;
+	height:210px;
+	border-radius:25px;
+}
+
+#footer
+{
+	background-color:#1C1C1C;
+	height:210px;
+	position:both;
+	margin-top:100px;
+}
+
+#boottry
+{
+	font-size:75px;
+}
+
+#greenbutton
+{
+	margin:200px 0px 0px -37px;
+	height:25px;
+	width:25px;
+	display:inline;
+	position:absolute;
+	z-index:1;	
+}
+
+#unorder
+{
+	font-size:30px;
+	color:black;
+	text-align:left;
+}

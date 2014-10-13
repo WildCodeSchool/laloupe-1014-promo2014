@@ -1,29 +1,31 @@
 #logo
 {
-left: 0%;
-margin-left: 910px;
-margin-top: -285px;
-position: absolute;
-top: 45%;
+  left: 0%;
+  margin-left: 920px;
+  margin-top: -285px;
+  position: absolute;
+  top: 45%;
 }
 
-#nom a {
-  color: #00BFFF;
+#nom a 
+{
+  color: #EE9A00;
   font-style: italic;
   text-decoration: none;
 }
 
-#nom h4 {
+#nom h4 
+{
   font-family: times;
-  color: #00BFFF;
+  color: #EE9A00;
 }
 
 #nom
 {
-	color: #AFEEEE;
+	color: #FFEECA;
   font-style: italic;
   height: 150px;
-  margin-left: 170px;
+  margin-left: 230px;
   margin-top: -280px;
   position: absolute;
   top: 45%;
@@ -32,7 +34,7 @@ top: 45%;
 #titre 
 {
   font-family: impact;
-  color:#AFEEEE;
+  color:#FFEECA;
   font-style: italic;
   font-weight: bold;
   font-size: 18px;
@@ -40,15 +42,15 @@ top: 45%;
 
 #cv 
 {
-  font-size:16px;
   font-family: times;
   font-style: italic;
-  color: #00BFFF;
+  font-size:17px;
+  color: #EE9A00;
   height: 400px;
   width: 400px;
   position: absolute;
   margin-left: 70px;
-  bottom: 4%;
+  bottom: 8%;
 
 
 }
@@ -56,7 +58,7 @@ top: 45%;
 {
   font-family: impact;
   font-weight: bold;
-  color:#AFEEEE;
+  color:#FFEECA;
   text-align: center;
   font-weight: bold;
   font-size: 18px;
@@ -71,40 +73,40 @@ top: 45%;
   font-family: times;
   font-style: italic;
   font-size: 17px;
-	color: #00BFFF;
+	color: #EE9A00;
 	height: 400px;
-  width: 320px;
-  margin-left: 510px;
-  margin-top: -230px;
-  top : 70%;
-  position: absolute;
+  width: 360px;
+  position:absolute;
+  display:inline;
+  margin: -439px 0px 0px 565px;
+
 }
 
-body {
-  background-image: url('http://lacuriosphere.fr/wp-content/gallery/technologie/fond-ecran-technologie-22.jpg');
+body 
+{
+  background-image: url('https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.psdgraphics.com%2Ffile%2Fdark-metal-texture.jpg&f=1');
   background-size: 1100px 900px;
 
 }
 
 #bloc 
 {
-background-color: #2F4F4F;
-height: 10px;
-width: 1010px;
+background-color: #BDB76B;
+height: 5px;
+width: 1004px;
 
 }
 
-#bar 
+ #bar 
  {
-  background-color: #2F4F4F;
-  height: 420px;
-  width: 10px;
+  background-color:#BDB76B;
+  height: 440px;
+  width: 5px;
   margin-left: 480px;
 }
 
-img 
+.pho
 {
-  border-radius: 5px;
-  border:2px solid #00BFFF;
-}
+border:1px solid #EE9A00;
 
+}

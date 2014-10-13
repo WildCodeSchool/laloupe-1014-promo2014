@@ -1,40 +1,174 @@
-﻿<!DOCTYPE html>
-<html>
-	<head>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<link type="text/css" rel="stylesheet" href="css/david.css"/>
-		<title>Blanchard David</title>
-	</head>
-	<body>
-				<div id="head">
-							<div id="title">
-							<h1>Blanchard David</h1>
-						</div>
-				</div>
-		<!--<div id="img1">
-				<img src="http://hpics.li/a3428e3"/>-->
-		</div>
-			<div class="block">
-				<div id="text">
-						<h2>Bonjour, je m'appel David.</h2>
-						<h2> J'ai 26 ans.</h2>
-						<h2>J'ai un BEP MPMI (Métier de la Production Mécanique Informatisée) que j'ai obtenu au lycée Sully de Nogent-le-Rotrou.</h2>
-				</div>
-			</div>
-			<div class="block2">	
-				<div id="text2">
-						<h2>J'ai connu Simplon Village grâce à un ami.</h2>
-						<h2>Etant passionné de l'informatique, et voulant me reconvertir car mon métier ne me plaisait plus, j'ai participé à une journée d'initiation à la programmation web organisé par Simplon Village le 11 juin 2014. </h2>
-						<h2>Cela m’a beaucoup plus, j'ai donc voulu participer à la formation de développeur web de 6 mois.</h2>
-				</div>
-			</div>
-				<div class="block">	
-				<div id="text3">
-						<h2>Je souhaite profiter de cette formation, pour ensuite travailler au sein d'une société qui me permettra d'approfondir mes connaissances<br/> dans la programmation web. Par la suite, créer ma propre société pour développer des jeux vidéo en ligne.</h3>
-				</div>
-			</div>
-			<!--<div class="img">
-				<img src="http://img11.hostingpics.net/pics/330026avatar2.png">
-			</div>-->
-	</body>
-</html>
+ body{
+	margin:0px;
+	/*background-image:url('img/fond2.jpg');
+		background-position:center;
+		background-repeat:no-repeat;
+		background-size:200%;*/
+	background-image:linear-gradient(#000000, white); /* Norme W3C */
+	background-image:-moz-linear-gradient(#000000, #FFFC00); /* Firefox */
+	background-image:-webkit-gradient(linear, #000000, #FFFC00); /* Chrome, Safari */
+	background-image:-o-linear-gradient(#000000, #FFFC00); /* Opera */
+	background-image:-ms-linear-gradient(#000000, #FFFC00); /* IE */
+ }
+
+#title {
+		/*background-image:url('img/fond3.jpg');
+		background-position:center;
+		background-repeat:no-repeat;
+		background-size:100%;*/
+		background-color: #505050;
+		width:auto;
+		height: 75px;
+		border-bottom: 2px solid white;
+		text-align:center;
+		text-decoration: underline;
+		font-family:Times;
+		font-size:40px;
+		padding-top: 25px;
+}
+#logo {
+	position:absolute;
+	top:-6px;
+	left:30px;
+}
+#fb {
+	position:absolute;
+	top:25px;
+	right:25px;
+}
+#mail{
+	position:absolute;
+	top:25px;
+	right:100px;
+}
+#gp{
+	position:absolute;
+	top:25px;
+	right:175px;
+}
+#moi{
+	border-radius: 100%;
+	border:solid 2px black;
+	width:200px;
+	height:200px;
+	position:relative;
+	background-image: url('img/moi.jpg');
+		background-size:178%;
+		background-repeat:no-repeat;
+		background-position: center;
+	margin: 100px 0px 0px 675px;
+}
+#simplon{
+	border-radius: 100%;
+	border:solid 2px black;
+	width:200px;
+	height:200px;
+	position:relative;
+	background-image: url('img/simplon.jpg');
+		background-size:300%;
+		background-repeat:no-repeat;
+		background-position: center;
+	margin: 170px 0px 0px 130px;
+	}
+#motiv{
+	border-radius: 100%;
+	border:solid 2px black;
+	width:200px;
+	height:200px;
+	background-image: url('img/motiv.png');
+		background-size:80%;
+		background-repeat:no-repeat;
+		background-position: center;
+	position:relative;
+	margin: 170px 0px 0px 675px;
+}
+.block{
+	/*background-image:url('img/fond4.jpg');
+		background-size: 200%;
+		background-repeat:no-repeat;
+		background-position:20% 80%;*/
+	/*background-image:radial-gradient(white, black); /* Norme W3C */
+		/*background-image:-moz-radial-gradient(white, black); /* Firefox */
+		/*background-image:-webkit-gradient(radial, white, black); /* Chrome, Safari */
+		/*background-image:-o-radial-gradient(white, black); /* Opera */
+		/*background-image:-ms-radial-gradient(white, black); /* IE */
+	background-color: white;
+	height:350px;
+	width:500px;
+	border: solid 2px black;
+	margin:20px 0px 20px 20px;
+	float:left;
+	box-shadow: 8px 4px 0px #000000;
+	border-radius: 10%;
+}
+
+#text{
+	margin-top:0px;
+	height:350px;
+	width:500px;
+	font-family:times;
+	padding:50px 0px 0px 0px;
+	text-align:center;
+	font-size:14px;
+}
+#pst{
+	margin-top:0px;
+	margin-bottom:50px;
+	text-decoration:underline;
+	font-size:30px;
+}
+#sv{
+	margin-top:-10px;
+	text-decoration:underline;
+	font-size:30px;
+}
+#mtv{
+	margin-top:-20px;
+	text-decoration:underline;
+	font-size:30px;
+}
+.block2{
+	
+	display:block;
+	/*background-image:url('img/fond4.jpg');
+		background-size: 200%;
+		background-repeat:no-repeat;
+		background-position:center;*/
+	/*background-image:radial-gradient(white, black); /* Norme W3C */
+		/*background-image:-moz-radial-gradient(white, black); /* Firefox */
+		/*background-image:-webkit-gradient(radial, white, black); /* Chrome, Safari */
+		/*background-image:-o-radial-gradient(white, black); /* Opera */
+		/*background-image:-ms-radial-gradient(white, black); /* IE */
+	background-color: white;
+	height:350px;
+	width:500px;
+	margin:0px 20px 0px 0px;
+	border: solid 2px black;
+	float:right;
+	clear:left;
+	font-family:Times;
+	box-shadow: 8px 4px 0px #000000;
+	border-radius: 10%;
+}
+p{
+	margin:0px;
+}
+#text2{
+	margin-top:15px;
+	height:200px;
+	width:500px;
+	font-family:times;
+	padding:55px 0px 0px 0px;
+	text-align:center;
+	font-size:12px;
+}
+
+#text3{
+	margin-top:20px;
+	height:100px;
+	width:500px;
+	font-family:times;
+	padding:75px 0px 0px 0px;
+	text-align:center;
+	font-size:14px;
+}
