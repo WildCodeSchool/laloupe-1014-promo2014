@@ -1,0 +1,168 @@
+* 
+{
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 100%;
+	background: #ffffff;
+}
+
+.wrap
+{
+	width:70%;
+	margin: 0 auto;
+}
+
+header{
+	width:80%;
+	margin: 0 auto;
+	text-align: left;
+	padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 75px;
+    padding-left: 50px;
+}
+
+h1
+{
+	font-size: 120%;
+}
+
+.presentation
+{
+	text-align: center;
+	background:  url('../img/simplon.jpg') no-repeat;
+	background-size: 100% 100%;
+	height: 487px;
+}
+
+.presentation .wrap
+{
+	padding-top: 310px;
+	font-size: 1.4em;
+	color: #ffffff;
+}
+
+nav{
+	float: right;
+	text-align: center;
+	background-size: 100% 100%;
+	margin-top: 0.4em;
+
+}
+
+nav > ul > li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav a{
+	padding: 30px;
+	color:black;
+	background: #1bbc9b;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	display: block;
+	font-size: 1em;
+	color: #ffffff;
+	padding: 0.5em 1em;
+}
+
+a:link 
+{ 
+ text-decoration:none; 
+}
+
+.logo{
+	float: left;
+}
+
+img
+{
+	float: left;
+	width: 55px;
+	height: 55px;
+}
+
+section{
+	padding: 15px;
+}
+
+.section2
+{
+	background: #1BBC9B;
+	color: #ffffff;
+}
+
+.section3
+{
+	background: #EBEBEB;
+}
+
+section p:last-child
+{
+	padding-bottom: 100px;
+}
+
+#objectifs
+{
+	font-size: 3em;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#experiences
+{
+	font-size: 3em;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#passions
+{
+	font-size: 3em;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+section h3{
+	text-align: center;
+}
+
+section p{
+	text-align: justify;
+	font-size: 1.3em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+footer{
+	text-align: center;
+	padding: 15px;
+}
+
+footer a{
+	display: inline-block;
+}
+
+footer a img{
+	width: 50px;
+	height: 50px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.copyright
+{
+	padding: 25px 0;
+	background: #303441;
+	text-align: center;
+	color: #ffffff;
+}
