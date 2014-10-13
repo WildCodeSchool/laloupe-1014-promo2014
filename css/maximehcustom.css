@@ -1,0 +1,13 @@
+/*custom.css*/
+
+body{
+	padding-top: 90px;
+	overflow: hidden;
+	padding-bottom: 33px;
+}
+.navbar{
+	min-height: 33px;
+}
+.espace{
+	padding-top: 800px;
+}
