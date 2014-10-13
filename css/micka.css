@@ -1,13 +1,13 @@
 
 .global {
-	background-image: url('/home/apprenti/Bureau/projet/img/body.jpg');
+	background-image: url('../img/body.jpg');
 	background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .header {
 	margin-top: -10px;
-	background-image: url('/home/apprenti/Bureau/projet/img/header.png');
+	background-image: url('../img/header.png');
 	background-size: 100% 100%;
     background-repeat: no-repeat;
 	text-align: center;
