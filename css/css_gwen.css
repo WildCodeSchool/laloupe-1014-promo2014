@@ -1,12 +1,12 @@
 body
 {
-	background:url(images-g-r/Cubes.jpg) center; overflow: hidden;
+	background:url(../img/Cubes.jpg) center; overflow: hidden;
 	font-family: 'Oswald', sans-serif;
 }
 
 body:hover
 {
-	background: url(images-g-r/Cubes.jpg) bottom right ;
+	background: url(../img/Cubes.jpg) bottom right ;
 	-webkit-transition: all 4.0s ease;
 -moz-transition: all 4.0s ease;
 -ms-transition: all 4.0s ease;
@@ -16,7 +16,7 @@ transition: all 60.0s ease;
 
 div:hover
 {
-	background: url(images-g-r/Cubes.jpg) bottom left ;
+	background: url(../img/Cubes.jpg) bottom left ;
 	-webkit-transition: all 4.0s ease;
 -moz-transition: all 4.0s ease;
 -ms-transition: all 4.0s ease;
@@ -44,7 +44,7 @@ div
 
 #test1:hover
 {
-	background: url(images-g-r/Cubes.jpg);
+	background: url(../img/Cubes.jpg);
 	border: 3px black solid; font-size: 70px;
 	width: 100%; text-align: center; margin: auto;
 	-webkit-transition: all 4.0s ease;
