@@ -1,0 +1,42 @@
+#background_page{
+  background-image:url("../img/backsamuel.png"); 
+ }
+
+#page-header{
+  position:fixed;
+  font-family: Times;
+  font-size:14px;
+  height:0px;
+  left:0px;
+  right:0px;
+   
+}
+#Idsamuel{
+  background-image:url("../img/samuel.jpg");
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid black;
+  max-width: 400px;
+}
+
+#button{
+  position auto: 0px;
+   
+}
+.articles_page-main{
+  text-align:relative;
+  font-family: ,Verdana;
+  font-size:14px;
+  margin:auto;
+}
+.page-footer{
+  font-family: Arial;
+  font-size:14px;
+  position:fixed;
+  margin-auto: ;
+  height:0px;
+  left:0px;
+  right:0px;
+  z-index: 3;
+}
+
